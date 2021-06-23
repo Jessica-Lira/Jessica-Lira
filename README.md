@@ -1,8 +1,9 @@
 <h1 align="center">Hello World, I'm Jessica!!<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></h1>
-<h3 align="center">
-:computer: ... A passionate quality engineer and web developer!
-:house_with_garden: I’m from Brazil.
-</h3>
+
+<p> :computer: A passionate quality engineer and web developer!</p> 
+<p> :house_with_garden: I’m from Brazil. </p> 
+
+<br>
 
 - ✨ I’m currently working on [letmeask challenge](https://github.com/Jessica-Lira/letmeask)
 
