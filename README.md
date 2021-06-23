@@ -5,9 +5,9 @@
 
 <br>
 
-- ✨ I’m currently working on [letmeask challenge](https://github.com/Jessica-Lira/letmeask)
+- I’m currently working on [letmeask challenge](https://github.com/Jessica-Lira/letmeask)
 
-- ✨ I’m currently learning **ReactJs, Cucumber, Selenium** 
+- I’m currently learning **ReactJs, Cucumber, Selenium** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
