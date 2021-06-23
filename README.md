@@ -1,9 +1,12 @@
-<h1 align="center">Hello World!🌎 I'm Jessica</h1>
-<h3 align="center">A passionate quality engineer and web developer from Brasil</h3>
+<h1 align="center">Hello World, I'm Jessica!!<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></h1>
+<h3 align="center">
+:computer: ... A passionate quality engineer and web developer!
+:house_with_garden: I’m from Brazil.
+</h3>
 
 - ✨ I’m currently working on [letmeask challenge](https://github.com/Jessica-Lira/letmeask)
 
-- ✨ I’m currently learning **ReactJs, Cucumber, Selenium**
+- ✨ I’m currently learning **ReactJs, Cucumber, Selenium** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
